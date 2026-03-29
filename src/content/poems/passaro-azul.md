@@ -1,0 +1,53 @@
+---
+title: "Pássaro Azul"
+author: "Charles Bukowski"
+date: "1992"
+tags: ["tristeza", "solidão"]
+---
+há um pássaro azul em meu peito que
+quer sair
+mas sou duro demais com ele,
+eu digo, fique aí, não deixarei
+que ninguém o veja.
+
+há um pássaro azul em meu peito que
+quer sair
+mas eu despejo uísque sobre ele e inalo
+fumaça de cigarro
+e as putas e os atendentes dos bares
+e das mercearias
+nunca saberão que
+ele está
+lá dentro.
+
+há um pássaro azul em meu peito que
+quer sair
+mas sou duro demais com ele,
+eu digo,
+fique aí, quer acabar
+comigo?
+quer foder com minha
+escrita?
+quer arruinar a venda dos meus livros na
+Europa?
+há um pássaro azul em meu peito que
+quer sair
+mas sou bastante esperto, deixo que ele saia
+somente em algumas noites
+quando todos estão dormindo.
+eu digo, sei que você está aí,
+então não fique
+triste.
+
+depois o coloco de volta em seu lugar,
+mas ele ainda canta um pouquinho
+lá dentro, não deixo que morra
+completamente
+e nós dormimos juntos
+assim
+com nosso pacto secreto
+e isto é bom o suficiente para
+fazer um homem
+chorar, mas eu não
+choro, e
+você?

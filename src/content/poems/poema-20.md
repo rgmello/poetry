@@ -1,0 +1,45 @@
+---
+title: "Poema 20"
+author: "Pablo Neruda"
+date: "1924"
+tags: ["amor", "saudade", "tristeza"]
+---
+Posso escrever os versos mais tristes esta noite.
+Escrever, por exemplo: "A noite está estrelada,
+e tiritam, azuis, os astros, ao longe."
+O vento da noite gira no céu e canta.
+
+Posso escrever os versos mais tristes esta noite.
+Eu a quis, e às vezes ela também me quis.
+Em noites como esta a tive entre meus braços.
+Beijei-a tantas vezes sob o céu infinito.
+
+Ela me quis, às vezes eu também a queria.
+Como não ter amado seus grandes olhos fixos.
+Posso escrever os versos mais tristes esta noite.
+Pensar que não a tenho. Sentir que a perdi.
+
+Ouvir a noite imensa, mais imensa sem ela.
+E o verso cai na alma como ao pasto o orvalho.
+Que importa que meu amor não pudesse guardá-la.
+A noite está estrelada e ela não está comigo.
+
+Isso é tudo. Ao longe alguém canta. Ao longe.
+Minha alma não se contenta com havê-la perdido.
+Como para aproximá-la meu olhar a busca.
+Meu coração a busca, e ela não está comigo.
+
+A mesma noite que faz blanquear as mesmas árvores.
+Nós, os de então, já não somos os mesmos.
+Já não a quero, é certo, mas quanto a quis.
+Minha voz buscava o vento para tocar seu ouvido.
+
+De outro. Será de outro. Como antes de meus beijos.
+Sua voz, seu corpo claro. Seus olhos infinitos.
+Já não a quero, é certo, mas talvez a queira.
+É tão curto o amor, e é tão longo o esquecimento.
+
+Porque em noites como esta a tive entre meus braços,
+Minha alma não se contenta com havê-la perdido.
+Ainda que este seja o último dolor que ela me causa,
+e estes sejam os últimos versos que eu lhe escrevo.
