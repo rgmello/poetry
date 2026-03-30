@@ -51,9 +51,7 @@ const { Content } = await render(entry);
       <p class="text-xl text-slate-500 italic">por {entry.data.author}</p>
     </header>
 
-    <div
-      class="whitespace-pre-wrap leading-relaxed text-lg md:text-xl text-slate-800"
-    >
+    <div class="prose prose-slate prose-lg mx-auto max-w-none font-serif">
       <Content />
     </div>
   </article>
